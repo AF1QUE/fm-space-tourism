@@ -1,0 +1,61 @@
+/* CSS Reset */
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+/* Global CSS */
+
+:root {
+  --black: #0b0d17;
+  --lavender: #d0d6f9;
+  --white: #ffffff;
+}
+
+* {
+  font-family: "Bellefair", serif;
+}
+
+body {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 150px;
+}
+
+h2 {
+  font-size: 100px;
+}
+
+h3 {
+  font-size: 56px;
+}
+
+h4 {
+  font-size: 32px;
+}
+
+h5 {
+  font-size: 28px;
+  letter-spacing: 4.75ch;
+}
+
+.sub-heading-1 {
+  font-size: 28px;
+}
+
+.sub-heading-2 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 14px;
+  letter-spacing: 2.35ch;
+}
+
+.nav-text {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 16px;
+  letter-spacing: 2.7ch;
+}
